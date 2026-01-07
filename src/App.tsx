@@ -22,6 +22,7 @@ const App = () => {
             <Alert text={'The Bluetooth Device is Connected as Successfully❤️😍'} ></Alert>
             <Alert text={'The Bluetooth Device is Connected as Successfully❤️😍'} ></Alert>
             <Alert text={'The Bluetooth Device is Connected as Successfully❤️😍'} ></Alert>
+            <p>Designed By Hekmatullah Jalili</p>
         </div>
     )
 }
